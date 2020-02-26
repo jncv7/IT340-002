@@ -1,0 +1,906 @@
+    1  ls
+    2  cd dir
+    3  ls
+    4  cd ..
+    5  ls
+    6  clear
+    7  ls
+    8  mkdir lab1
+    9  ls
+   10  cd dir
+   11  ls
+   12  sudo mv something10.txt /home/vagrant/lab1
+   13  sudo mv something1.txt /home/vagrant/lab1
+   14  sudo mv something4.txt /home/vagrant/lab1
+   15  sudo mv something6.txt /home/vagrant/lab1
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd lab1
+   20  ls
+   21  cd ..
+   22  cd /etc
+   23  ls
+   24  cd sll
+   25  cd ssl
+   26  ls
+   27  cd ..
+   28  clear
+   29  ls
+   30  cd mdadm
+   31  ks
+   32  ls
+   33  cd ..
+   34  cd labsample
+   35  ls
+   36  sudo mv test9.txt /home/vagrant/lab1
+   37  ls
+   38  clear
+   39  ls
+   40  cd ~
+   41  ls
+   42  cd /media
+   43  ls
+   44  cd sample
+   45  ls
+   46  sudo mv word3.txt /home/vagrant/lab1
+   47  sudo mv word5.txt /home/vagrant/lab1
+   48  sudo mv word7.txt /home/vagrant/lab1
+   49  ls
+   50  cd ~
+   51  ls
+   52  cd lab1
+   53  ls
+   54  clear
+   55  cd ..
+   56  ls
+   57  cd /vim
+   58  cd /media
+   59  cd ..
+   60  ls
+   61  cd vat
+   62  cd var
+   63  ls
+   64  cd www
+   65  ls
+   66  cd html
+   67  ls
+   68  cd project 
+   69  ls
+   70  sudo mv intro8.txt /home/vagrant/lab1
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd ..
+   75  ls
+   76  cd local
+   77  ls
+   78  cd ..
+   79  cd cache
+   80  ls
+   81  cd man
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd samba
+   86  ls
+   87  cd ..
+   88  ls
+   89  clear
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd dev
+   94  ls
+   95  cd mapper
+   96  ls
+   97  cd ..
+   98  ls
+   99  cd usr
+  100  ls
+  101  cd src
+  102  ls
+  103  cd ..
+  104  ls
+  105  cd ~
+  106  ls
+  107  history > history.txt
+  108  ls
+  109  cat history.txt
+  110  clear
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd ..
+  115  ls
+  116  cd mnt
+  117  ls
+  118  cd ..
+  119  cd opt
+  120  ls
+  121  cd ..
+  122  cd snap
+  123  ls
+  124  cd ..
+  125  cd bin
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd lib
+  130  ls
+  131  cd ifupdown
+  132  ls
+  133  cd ..
+  134  cd ufw
+  135  ls
+  136  cd ..
+  137  cd udev
+  138  ls
+  139  cd ..
+  140  cd modules
+  141  ls
+  142  cd ..
+  143  cd..
+  144  cd ..
+  145  ls
+  146  cd etc
+  147  ls
+  148  cd acpi
+  149  ls
+  150  cd events
+  151  ls
+  152  cd ..
+  153  ls
+  154  clear
+  155  ls
+  156  cd dbus-1
+  157  ls
+  158  cd ..
+  159  ls
+  160  cd gss
+  161  ls
+  162  cd ..
+  163  cd var
+  164  ls
+  165  cd /var
+  166  ls
+  167  cd tmp
+  168  ls
+  169  cd ..
+  170  cd mail
+  171  ls
+  172  cd ..
+  173  cd spool
+  174  ls
+  175  cd cron
+  176  ls
+  177  cd ..
+  178  ls
+  179  cd ..
+  180  clear
+  181  cd ~
+  182  ls
+  183  cd lab1
+  184  ls
+  185  cd ..
+  186  ls
+  187  cd ..
+  188  ls
+  189  cd srv
+  190  ls
+  191  ;s
+  192  ls
+  193  cd ..
+  194  cd sbin
+  195  ls
+  196  cd ..
+  197  clear
+  198  ls
+  199  cd proc
+  200  ls
+  201  cd driver
+  202  ls
+  203  cd ..
+  204  cd scsi
+  205  ls
+  206  cd sg
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd irg
+  211  ls
+  212  cd irg
+  213  ls
+  214  cd irq
+  215  ls
+  216  cd ..
+  217  clear
+  218  ls
+  219  cd fs
+  220  ls
+  221  cd ext4
+  222  ls
+  223  cd dm-0
+  224  ls
+  225  cd ..
+  226  cd nfsd
+  227  ls
+  228  cd ..
+  229  cd nfsd
+  230  ls
+  231  cd ..
+  232  ls
+  233  clear
+  234  ls
+  235  cd..
+  236  cd ..
+  237  ls
+  238  cd vat
+  239  cd var
+  240  ls
+  241  cd ww
+  242  ls
+  243  cd www
+  244  ls
+  245  cd html
+  246  ls
+  247  cd project
+  248  ls
+  249  cd ..
+  250  ls
+  251  cd spool
+  252  ls
+  253  cd rsyslog
+  254  ls
+  255  cd cron
+  256  ls
+  257  cd ..
+  258  ls
+  259  clear
+  260  ls
+  261  cd cacje
+  262  cd cache
+  263  ls
+  264  cd ldconfig
+  265  ls
+  266  cd apt
+  267  ls
+  268  cd archives
+  269  ls
+  270  cd partial
+  271  cd ,
+  272  cd ..
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd dev
+  277  ls
+  278  cd hugepages
+  279  ls
+  280  ls -a
+  281  cd ..
+  282  ls
+  283  clear
+  284  ls
+  285  cd pts
+  286  ls
+  287  cd ..
+  288  cd net
+  289  ls
+  290  cd ..
+  291  cd char
+  292  ls
+  293  cd ..
+  294  cd vfio
+  295  ls
+  296  cd ..
+  297  cd block
+  298  ls
+  299  cd ..
+  300  cd dri
+  301  ls
+  302  cd by-path
+  303  l
+  304  ls
+  305  cd ..
+  306  ls
+  307  cd ..
+  308  clera
+  309  clear
+  310  ls
+  311  cd media
+  312  ls
+  313  cd cdrom
+  314  ls
+  315  cd ..
+  316  cd root
+  317  cd ..
+  318  cd root
+  319  ls
+  320  sudo cd root
+  321  ls
+  322  clear
+  323  ls
+  324  cd srv
+  325  l
+  326  ls
+  327  cd ..
+  328  cd sys
+  329  ls
+  330  cd hypervisor
+  331  ls
+  332  cd ..
+  333  cd block
+  334  ls
+  335  cd ..
+  336  cd bus
+  337  ls
+  338  cd nd
+  339  s
+  340  ls
+  341  cd ..
+  342  cd pnp
+  343  ls
+  344  cd ..
+  345  ls
+  346  cd class
+  347  ls
+  348  cd watchdog
+  349  ls
+  350  cd ..
+  351  ls
+  352  cd proc
+  353  ls
+  354  cd ..
+  355  cd rtc
+  356  ls
+  357  cd pwm
+  358  ks
+  359  ls
+  360  clear
+  361  ls
+  362  cd vagrant
+  363  ls
+  364  cd ..
+  365  cd usr
+  366  ls
+  367  cd bin
+  368  ls
+  369  cd ..
+  370  ls
+  371  clear
+  372  ls
+  373  cd games
+  374  ls
+  375  cd ..
+  376  cd inclufe
+  377  cd include
+  378  ls
+  379  cd viedo
+  380  cd video
+  381  ls
+  382  cd ,,
+  383  cd readline
+  384  ls
+  385  cd ..
+  386  cd readline
+  387  ls
+  388  cd ..
+  389  cd sound 
+  390  ls
+  391  cd ..
+  392  ls
+  393  cd root
+  394  ls
+  395  cd proc
+  396  ls
+  397  cd ..
+  398  clear
+  399  ls
+  400  cd lib64
+  401  ls
+  402  cd ..
+  403  cd opt
+  404  ls
+  405  cd VBoxGuestAdditions-6.1.2/
+  406  ls
+  407  cd other
+  408  ls
+  409  cd ..
+  410  ls
+  411  cd init
+  412  ls
+  413  cd ..
+  414  ls
+  415  cd ..
+  416  ls
+  417  cd run
+  418  ls
+  419  cd blkid
+  420  ls
+  421  cd ..
+  422  cd uuidd
+  423  ls
+  424  cd ..
+  425  cd lvm
+  426  ls
+  427  exit
+  428  ls
+  429  clear
+  430  ls
+  431  cd lab1
+  432  ls
+  433  ls -l
+  434  ls
+  435  cd ..
+  436  ls
+  437  cd ..
+  438  ls
+  439  cd media
+  440  ls
+  441  cd ..
+  442  cd proc
+  443  ls
+  444  cd ..
+  445  cd etc
+  446  ls
+  447  cd acpi
+  448  ls
+  449  cd events
+  450  ls
+  451  cd ..
+  452  ls
+  453  clear
+  454  ls
+  455  cd alternatives/
+  456  ls
+  457  cd ..
+  458  clear
+  459  ls
+  460  cd apm
+  461  ls
+  462  cd event.d/
+  463  ls
+  464  c d..
+  465  cd ..
+  466  ls
+  467  clera
+  468  cd ..
+  469  cdlear
+  470  clear
+  471  ls
+  472  cd apparmor
+  473  ls
+  474  cd init
+  475  ls
+  476  cd network-interface-security/
+  477  ls
+  478  cd ..
+  479  ls
+  480  clear
+  481  ls
+  482  dc apt
+  483  cd pt
+  484  cd apt
+  485  ls
+  486  cd ..
+  487  clear
+  488  ls
+  489  cd byobu
+  490  ls
+  491  cd ..
+  492  cd dpkg
+  493  ls
+  494  cd origins
+  495  ls
+  496  cd ..
+  497  ls
+  498  cd ..
+  499  ls
+  500  clear
+  501  ls
+  502  cd libnl-3/
+  503  ls
+  504  cd ..
+  505  cd logcheck/
+  506  ls
+  507  cd ..
+  508  cd mdadm
+  509  ls
+  510  cd ..
+  511  cd newt
+  512  ls
+  513  cd ..
+  514  cd net
+  515  cd netplan
+  516  ls
+  517  cd ..
+  518  cd opt
+  519  ls
+  520  cd ..
+  521  cd pm
+  522  ls
+  523  cd sleep.d/
+  524  ls
+  525  cd ..
+  526  ls
+  527  clear
+  528  ls
+  529  cd python
+  530  ls
+  531  cd ..
+  532  cd sll
+  533  l
+  534  cd labsample
+  535  ls
+  536  cd ..
+  537  cd vim
+  538  ls
+  539  cd ..
+  540  ls
+  541  cd var
+  542  ls
+  543  clear
+  544  ls
+  545  cd local
+  546  ls
+  547  cd ..
+  548  cd mail
+  549  ls
+  550  cd ..
+  551  cd snap
+  552  ls
+  553  cd ..
+  554  cd spool
+  555  ls
+  556  cd cron
+  557  ls
+  558  cd ..
+  559  cd cache
+  560  ls
+  561  cd apt
+  562  ls
+  563  cd archives/
+  564  ls
+  565  cd partial/
+  566  ls
+  567  cd ..
+  568  ls
+  569  clear
+  570  ls
+  571  cd www
+  572  ls
+  573  cd hrml
+  574  cd html
+  575  ls
+  576  cd project/
+  577  ls
+  578  cd ..
+  579  cd..
+  580  cd ..
+  581  ls
+  582  cd ..
+  583  ls
+  584  cd local
+  585  ls
+  586  cd ..
+  587  ls
+  588  cd home
+  589  ls
+  590  cd vagrant
+  591  ls
+  592  cd sbin
+  593  ls
+  594  cd sbin
+  595  cd proc
+  596  ls
+  597  clear
+  598  ls
+  599  cd lab1
+  600  ls
+  601  cd ..
+  602  ls
+  603  cd ..
+  604  ls
+  605  cd ..
+  606  ls
+  607  cd bin
+  608  ls
+  609  cd ..
+  610  clear
+  611  ls
+  612  cd boot
+  613  ls
+  614  cd grub
+  615  ls
+  616  cd locale
+  617  ls
+  618  cd ..
+  619  cd f
+  620  cd fonts
+  621  cd ..
+  622  ls
+  623  cd etc
+  624  ls
+  625  cd ldap
+  626  ls
+  627  cd ..
+  628  cd xdg
+  629  ls
+  630  cd systemd/
+  631  ls
+  632  cd ..
+  633  ls
+  634  cd ls
+  635  clear
+  636  ls
+  637  cd ..
+  638  ls
+  639  clear
+  640  ls
+  641  cd sbin
+  642  ls
+  643  cd ..
+  644  clear
+  645  ls
+  646  cd usr
+  647  ls
+  648  cd src
+  649  ls
+  650  cd ..
+  651  cd share
+  652  ls
+  653  cd awk
+  654  ls
+  655  cd ..
+  656  cd mime
+  657  ls
+  658  cd text
+  659  ls
+  660  cd ..
+  661  cd font
+  662  ls
+  663  cd ..
+  664  ls
+  665  clear
+  666  ls
+  667  cd zoneinfo
+  668  ls
+  669  cd ..
+  670  ls
+  671  cd local
+  672  ls
+  673  cd src
+  674  ls
+  675  cd ..
+  676  ls
+  677  cd include
+  678  ls
+  679  cd mtd
+  680  ls
+  681  cd ..
+  682  cd rpc
+  683  ls
+  684  cd ..
+  685  cd sound
+  686  ls
+  687  cd ..
+  688  cd drm
+  689  ls
+  690  cd ..
+  691  cd arpa
+  692  ls
+  693  cd btrfs
+  694  ls
+  695  cd btrfs
+  696  ls
+  697  clear
+  698  cd ..
+  699  ls
+  700  clear
+  701  ls
+  702  cd opt
+  703  ls
+  704  cd ..
+  705  clear
+  706  ls
+  707  cd lib
+  708  ls
+  709  cd lsb
+  710  ls
+  711  cd ..
+  712  cd modules
+  713  ls
+  714  cd ..
+  715  cd udev
+  716  ls
+  717  cd ..
+  718  cd ebtables/
+  719  ls
+  720  cd ..
+  721  ls
+  722  clear
+  723  ls
+  724  cd bin
+  725  ls
+  726  cd ..
+  727  clear
+  728  ls
+  729  cd cd media
+  730  ls
+  731  cd media
+  732  ls
+  733  cd sample
+  734  ls
+  735  cd ..
+  736  clear
+  737  ls
+  738  cd ..
+  739  ls
+  740  cd man
+  741  ls
+  742  clear
+  743  cd var
+  744  ls
+  745  cd www
+  746  ls
+  747  cd html
+  748  ls
+  749  cd project/
+  750  ls
+  751  cd..
+  752  cd ..
+  753  cd.
+  754  cd ..
+  755  ls
+  756  clear
+  757  cd etc
+  758  ls
+  759  cd ..
+  760  man find
+  761  ls
+  762  pwd
+  763  find / "sample"
+  764  clear
+  765  ls
+  766  find /var "sample"
+  767  clear
+  768  find /vat "*.txt"
+  769  find /var "*.txt"
+  770  cd ..
+  771  clear
+  772  ls
+  773  find /home/vagrant/lab1 ".txt"
+  774  find /home/vagrant/lab1 "*.txt"
+  775  find . -name *.txt
+  776  clear
+  777  find . -name *.txt
+  778  cd /usr
+  779  ls
+  780  cd lab
+  781  cd lib
+  782  ls
+  783  cd lab
+  784  cd ..
+  785  clear
+  786  cd ~
+  787  cd usr
+  788  cd /usr
+  789  cd local
+  790  ls
+  791  cd lab
+  792  ls
+  793  mv lab file2.txt
+  794  nano file2.txt
+  795  sudo mv file2.txt /home/vagrant/lab1
+  796  ls
+  797  cd ~
+  798  ls
+  799  cd lab1
+  800  ls
+  801  cd ..
+  802  touch testfile.txt
+  803  ls
+  804  nano testfile.txt
+  805  cat testfile.txt
+  806  touch testcat.txt
+  807  ls
+  808  echo testfile.txt > testcat.txt
+  809  nano testcat.txt
+  810  cat testcat.txt
+  811  cd lab1
+  812  ls
+  813  cd -al
+  814  ls -al
+  815  ls -lt
+  816  clear
+  817  ls -lt
+  818  touch Labcat.txt
+  819  ls
+  820  cat something1.txt
+  821  cd ..
+  822  ls
+  823  echo cat testfile.txt > testcat.txt
+  824  ls
+  825  cat testcat.txt
+  826  cd lab1
+  827  clear
+  828  ls -lt
+  829  cat something1.txt
+  830  cat file2.txt
+  831  cat word3.txt
+  832  cat something4.txt
+  833  cat word5.txt
+  834  cat something6.txt
+  835  cat word7.txt
+  836  cat intro8.txt 
+  837  cat test9.txt 
+  838  test something10.txt
+  839  cat something10.txt
+  840  nano Labcat.txt 
+  841  cat Labcat.txt 
+  842  clear
+  843  cd ..
+  844  ls
+  845  cd repo
+  846  mkdir repo
+  847  ls
+  848  cd repo
+  849  git clone https://github.com/jncv7/IT340-002.git
+  850  ls
+  851  cd IT340-002/
+  852  la
+  853  cd ..
+  854  mkdir lab1v2
+  855  ls
+  856  cd IT340-002/
+  857  ls
+  858  cd lab1
+  859  ls
+  860  cd ..
+  861  ls -a
+  862  mkdir lab1v2
+  863  cd lab1v2
+  864  pwd
+  865  dc ~
+  866  cd ~
+  867  ls
+  868  sudo mv answer.zip /home/vagrant/repo/IT340-002/lab1v2
+  869  ls
+  870  mkdir testFold
+  871  ls
+  872  sudo mv testFold /home/vagrant/repo/IT340-002/lab1v2
+  873  cd repo
+  874  cd IT340-002/
+  875  ls
+  876  cd lab1v2
+  877  ls
+  878  cd ~
+  879  ls
+  880  sudo mv lab1 /home/vagrant/repo/IT340-002/lab1v2
+  881  sudo mv history.txt /home/vagrant/repo/IT340-002/lab1v2
+  882  ls
+  883  cd repo
+  884  ls
+  885  lab1v2
+  886  ls
+  887  cd lab1v2
+  888  ls
+  889  cd ..
+  890  ls
+  891  cd IT340-002/
+  892  ls
+  893  git status
+  894  git add lab1v2
+  895  git commit -m "This is the correct folder this time"
+  896  git branch
+  897  git checkout -b "secondTry"
+  898  git status
+  899  ls
+  900  git add .
+  901  git commit -m "This is the working one"
+  902  git push origin secondTry
+  903  ls
+  904  cd lab1v2
+  905  ls
+  906  history > history2.txt
