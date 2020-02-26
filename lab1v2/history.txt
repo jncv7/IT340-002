@@ -1,0 +1,107 @@
+    1  ls
+    2  cd dir
+    3  ls
+    4  cd ..
+    5  ls
+    6  clear
+    7  ls
+    8  mkdir lab1
+    9  ls
+   10  cd dir
+   11  ls
+   12  sudo mv something10.txt /home/vagrant/lab1
+   13  sudo mv something1.txt /home/vagrant/lab1
+   14  sudo mv something4.txt /home/vagrant/lab1
+   15  sudo mv something6.txt /home/vagrant/lab1
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd lab1
+   20  ls
+   21  cd ..
+   22  cd /etc
+   23  ls
+   24  cd sll
+   25  cd ssl
+   26  ls
+   27  cd ..
+   28  clear
+   29  ls
+   30  cd mdadm
+   31  ks
+   32  ls
+   33  cd ..
+   34  cd labsample
+   35  ls
+   36  sudo mv test9.txt /home/vagrant/lab1
+   37  ls
+   38  clear
+   39  ls
+   40  cd ~
+   41  ls
+   42  cd /media
+   43  ls
+   44  cd sample
+   45  ls
+   46  sudo mv word3.txt /home/vagrant/lab1
+   47  sudo mv word5.txt /home/vagrant/lab1
+   48  sudo mv word7.txt /home/vagrant/lab1
+   49  ls
+   50  cd ~
+   51  ls
+   52  cd lab1
+   53  ls
+   54  clear
+   55  cd ..
+   56  ls
+   57  cd /vim
+   58  cd /media
+   59  cd ..
+   60  ls
+   61  cd vat
+   62  cd var
+   63  ls
+   64  cd www
+   65  ls
+   66  cd html
+   67  ls
+   68  cd project 
+   69  ls
+   70  sudo mv intro8.txt /home/vagrant/lab1
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd ..
+   75  ls
+   76  cd local
+   77  ls
+   78  cd ..
+   79  cd cache
+   80  ls
+   81  cd man
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd samba
+   86  ls
+   87  cd ..
+   88  ls
+   89  clear
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd dev
+   94  ls
+   95  cd mapper
+   96  ls
+   97  cd ..
+   98  ls
+   99  cd usr
+  100  ls
+  101  cd src
+  102  ls
+  103  cd ..
+  104  ls
+  105  cd ~
+  106  ls
+  107  history > history.txt
