@@ -1,0 +1,55 @@
+    1  ls
+    2  clear
+    3  sudo systemctl restart bind9
+    4  sudo systemctl enable bind9
+    5  sudo systemctl status bind9
+    6  ipconfig
+    7  ifconig
+    8  ip addr show
+    9  sudo cp /etc/bind/db.local /etc/bind/forward.it340.local.db
+   10  sudo nano /etc/bind/forward.it340.local.db
+   11  clear
+   12  sudo nano /etc/bind/named.conf.local
+   13  clear
+   14  sudo cp /etc/bind/db.local /etc/bind/forward.it340.local.db
+   15  sudo nano /etc/bind/forward.it340.local.db
+   16  clear
+   17  sudo nano /etc/bind/forward.hostname.local.db
+   18  sudo apt install -y bind9 bind9utils bind9-doc dnsutils
+   19  sudo nano /etc/bind/named.conf.local
+   20  logout
+   21  ipconfig
+   22  ip addr show
+   23  clear
+   24  sudo nano /etc/bind/named.conf.local
+   25  sudo cp /etc/bind/db.local /etc/bind/forward.hostname.local.db
+   26  sudo cp /etc/bind/db.local /etc/bind/forward.it340.local.db
+   27  sudo nano /etc/bind/forward.it340.local.db
+   28  sudo cp /etc/bind/db.127 /etc/bind/reverse.it340.local.db
+   29  sudo nano /etc/bind/reverse.it340.local.db
+   30  sudo named-checkconf
+   31  sudo named-checkzone hostname.local /etc/bind/forward.it340.local.db
+   32  named-checkzone 0.168.192.in-addr.arpa /etc/bind/reverse.it340.local.db
+   33  named-checkzone 170.1.168.192.in-addr.arpa /etc/bind/reverse.it340.local.db
+   34  sudo systemctl restart bind9
+   35  sudo systemctl enable bind9
+   36  sudo systemctl status bind9
+   37  ls
+   38  hitsory
+   39  history
+   40  history ? history.txt
+   41  history > history.txt
+   42  ls
+   43  cat history
+   44  cat history.txt 
+   45  git
+   46  mkdir lab2
+   47  ls
+   48  cd lab2
+   49  git clone https://github.com/jncv7/IT340-002.git
+   50  history > history.txt
+   51  ls
+   52  git add .
+   53  cd IT340-002/
+   54  ls
+   55  history > history.txt
